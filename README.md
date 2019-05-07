@@ -1,5 +1,5 @@
 # SilliconValley
-This is a [GIPHY](https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) demo of a game built for Data Structures at Berkeley, taught by Josh Hug. *I'm not allowed to post the code here for academic honesty reasons*, so feel free to e-mail me for it if you're not a Berkeley student. 
+This is a [GIPHY](https://itunes.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) demo of a game built for Data Structures at Berkeley, taught by Josh Hug. **I'm not allowed to post the code here for academic honesty reasons**, so feel free to e-mail me for it if you're not a Berkeley student. 
 
 This game is based on HBO's [Silicon Valley](https://www.hbo.com/silicon-valley), a wonderful show I enjoy.
 
