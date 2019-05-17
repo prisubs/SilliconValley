@@ -17,3 +17,4 @@ The user moves around with their W, A, S and D keys. We wrote the functionality 
 There's a number of randomly placed and architected "interactions" in the game - two of which are trivia questions and VC funding from characters on the show.
 
 ![](3.gif)
+![](4.gif)
