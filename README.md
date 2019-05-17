@@ -12,3 +12,8 @@ Upon entering the game, the user is prompted to enter a seed, and the code gener
 The user moves around with their W, A, S and D keys. We wrote the functionality to continuously be able to navigate and read keyboard input without interruptions, as well as displaying tile descriptions when a user mouses over some area of the screen. Simultaneously handling keyboard and mouse input without making use of computer time was a challenge.
 
 ![](2.gif)
+
+# Interactions
+There's a number of randomly placed and architected "interactions" in the game - two of which are trivia questions and VC funding from characters on the show.
+
+![](3.gif)
